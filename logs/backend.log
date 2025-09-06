@@ -1,0 +1,363 @@
+2025-08-24 02:12:14,942 - INFO - Vehicle detected: car
+2025-08-24 02:16:02,048 - INFO - Vehicle detected: car
+2025-08-24 02:17:15,782 - INFO - Vehicle detected: car
+2025-08-24 02:18:05,963 - INFO - Vehicle detected: car
+2025-08-24 02:19:40,704 - INFO - Vehicle detected: car
+2025-08-24 02:21:08,910 - INFO - Vehicle detected: truck
+2025-08-24 02:25:14,169 - INFO - Vehicle detected: truck
+2025-08-24 02:26:13,203 - INFO - Vehicle detected: truck
+2025-08-24 02:26:47,960 - INFO - Vehicle detected: truck
+2025-08-24 08:36:32,328 - INFO - Vehicle detected: auto
+2025-08-24 08:36:32,729 - INFO - Vehicle detected: auto
+2025-08-24 08:36:32,847 - INFO - Vehicle detected: auto
+2025-08-24 08:36:32,971 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,094 - INFO - Vehicle detected: car
+2025-08-24 08:36:33,205 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,324 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,442 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,567 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,696 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,821 - INFO - Vehicle detected: auto
+2025-08-24 08:36:33,947 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,069 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,195 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,329 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,458 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,619 - INFO - Vehicle detected: auto
+2025-08-24 08:36:34,815 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,017 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,217 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,421 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,625 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,812 - INFO - Vehicle detected: auto
+2025-08-24 08:36:35,982 - INFO - Vehicle detected: auto
+2025-08-24 08:36:36,183 - INFO - Vehicle detected: auto
+2025-08-24 08:36:36,477 - INFO - Vehicle detected: auto
+2025-08-24 08:36:36,665 - INFO - Vehicle detected: auto
+2025-08-24 08:36:36,818 - INFO - Vehicle detected: auto
+2025-08-24 08:36:36,996 - INFO - Vehicle detected: auto
+2025-08-24 08:36:37,181 - INFO - Vehicle detected: auto
+2025-08-24 08:36:37,347 - INFO - Vehicle detected: auto
+2025-08-24 08:36:37,520 - INFO - Vehicle detected: auto
+2025-08-24 08:36:37,692 - INFO - Vehicle detected: auto
+2025-08-24 08:36:37,881 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,054 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,225 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,392 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,568 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,752 - INFO - Vehicle detected: auto
+2025-08-24 08:36:38,923 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,098 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,270 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,454 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,630 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,799 - INFO - Vehicle detected: auto
+2025-08-24 08:36:39,967 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,155 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,344 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,531 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,674 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,784 - INFO - Vehicle detected: auto
+2025-08-24 08:36:40,894 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,004 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,128 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,249 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,359 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,470 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,580 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,691 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,816 - INFO - Vehicle detected: auto
+2025-08-24 08:36:41,939 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,046 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,156 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,263 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,374 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,485 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,593 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,707 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,829 - INFO - Vehicle detected: auto
+2025-08-24 08:36:42,941 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,063 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,172 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,299 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,423 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,531 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,642 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,749 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,860 - INFO - Vehicle detected: auto
+2025-08-24 08:36:43,970 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,083 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,195 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,302 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,412 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,525 - INFO - Vehicle detected: auto
+2025-08-24 08:36:44,633 - INFO - Vehicle detected: auto
+2025-08-24 08:36:45,432 - INFO - Vehicle detected: auto
+2025-08-24 08:36:45,544 - INFO - Vehicle detected: auto
+2025-08-24 08:36:45,667 - INFO - Vehicle detected: auto
+2025-08-24 08:36:45,778 - INFO - Vehicle detected: auto
+2025-08-24 08:36:46,039 - INFO - Vehicle detected: ambulance
+2025-08-24 08:36:46,039 - INFO - EMERGENCY VEHICLE: ambulance. Free Pass.
+2025-08-24 08:36:46,114 - INFO - Vehicle detected: ambulance
+2025-08-24 08:36:46,114 - INFO - EMERGENCY VEHICLE: ambulance. Free Pass.
+2025-08-24 08:36:46,303 - INFO - Vehicle detected: ambulance
+2025-08-24 08:36:46,304 - INFO - EMERGENCY VEHICLE: ambulance. Free Pass.
+2025-08-24 08:36:46,571 - INFO - Vehicle detected: car
+2025-08-24 08:36:46,944 - INFO - Vehicle detected: car
+2025-08-24 08:36:48,000 - INFO - Vehicle detected: ambulance
+2025-08-24 08:36:48,000 - INFO - EMERGENCY VEHICLE: ambulance. Free Pass.
+2025-08-24 08:36:48,076 - INFO - Vehicle detected: car
+2025-08-24 08:36:48,280 - INFO - Vehicle detected: van
+2025-08-24 08:36:48,390 - INFO - Vehicle detected: car
+2025-08-24 08:36:48,546 - INFO - Vehicle detected: car
+2025-08-24 08:36:48,739 - INFO - Vehicle detected: car
+2025-08-24 08:36:48,905 - INFO - Vehicle detected: car
+2025-08-24 08:36:49,061 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,206 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,362 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,505 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,647 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,740 - INFO - Toll payment logged \u2192 HR26EG8855 | van | \u20b970 | daniel94@bank
+2025-08-24 08:36:49,805 - INFO - Vehicle detected: van
+2025-08-24 08:36:49,896 - INFO - Toll payment logged \u2192 HR26EG8855 | van | \u20b970 | daniel94@bank
+2025-08-24 08:36:49,961 - INFO - Vehicle detected: van
+2025-08-24 08:36:50,045 - INFO - Toll payment logged \u2192 HR26EG8855 | van | \u20b970 | daniel94@bank
+2025-08-24 08:36:50,119 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,261 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,403 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,545 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,686 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,825 - INFO - Vehicle detected: car
+2025-08-24 08:36:50,907 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:50,982 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,126 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,278 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,419 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,502 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:51,574 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,716 - INFO - Vehicle detected: car
+2025-08-24 08:36:51,798 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:51,875 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,024 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,109 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:52,188 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,270 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:52,340 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,497 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,666 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,807 - INFO - Vehicle detected: car
+2025-08-24 08:36:52,889 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:52,966 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,122 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,207 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:53,275 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,418 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,559 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,714 - INFO - Vehicle detected: car
+2025-08-24 08:36:53,854 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,009 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,093 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:54,169 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,251 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:54,320 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,462 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,543 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:54,618 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,759 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,840 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:54,912 - INFO - Vehicle detected: car
+2025-08-24 08:36:54,990 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:55,058 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,194 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,276 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:55,350 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,436 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:55,508 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,648 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,729 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:55,796 - INFO - Vehicle detected: car
+2025-08-24 08:36:55,948 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,035 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:56,103 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,249 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,330 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:56,404 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,545 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,700 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,838 - INFO - Vehicle detected: car
+2025-08-24 08:36:56,922 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:57,001 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,138 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,271 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,406 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,544 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,689 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,770 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:57,847 - INFO - Vehicle detected: car
+2025-08-24 08:36:57,930 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:58,003 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,085 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:58,160 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,299 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,382 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:58,457 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,536 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:58,598 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,738 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,880 - INFO - Vehicle detected: car
+2025-08-24 08:36:58,959 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:36:59,037 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,174 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,319 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,463 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,601 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,734 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,881 - INFO - Vehicle detected: car
+2025-08-24 08:36:59,973 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:00,051 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,130 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:00,209 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,350 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,487 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,577 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:00,648 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,789 - INFO - Vehicle detected: car
+2025-08-24 08:37:00,876 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:00,945 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,079 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,165 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:01,242 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,324 - INFO - Toll payment logged \u2192 HR26EG8855 | car | \u20b950 | daniel94@bank
+2025-08-24 08:37:01,401 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,545 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,686 - INFO - Vehicle detected: car
+2025-08-24 08:37:01,827 - INFO - Vehicle detected: car
+2025-08-24 08:37:02,061 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,175 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,295 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,407 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,578 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,690 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,797 - INFO - Vehicle detected: auto
+2025-08-24 08:37:02,904 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,014 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,188 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,314 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,438 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,546 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,654 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,766 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,876 - INFO - Vehicle detected: auto
+2025-08-24 08:37:03,984 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,097 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,218 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,326 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,439 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,550 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,661 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,773 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,882 - INFO - Vehicle detected: auto
+2025-08-24 08:37:04,986 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,094 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,209 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,318 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,427 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,535 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,644 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,756 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,865 - INFO - Vehicle detected: auto
+2025-08-24 08:37:05,974 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,147 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,261 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,372 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,492 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,605 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,727 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,832 - INFO - Vehicle detected: auto
+2025-08-24 08:37:06,943 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,051 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,160 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,266 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,381 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,488 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,615 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,800 - INFO - Vehicle detected: auto
+2025-08-24 08:37:07,994 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,122 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,315 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,426 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,552 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,661 - INFO - Vehicle detected: auto
+2025-08-24 08:37:08,771 - INFO - Vehicle detected: auto
+2025-08-24 08:44:00,206 - INFO - Vehicle detected: truck
+2025-08-24 08:46:02,151 - INFO - Vehicle detected: car
+2025-08-24 08:46:04,317 - INFO - Email send failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-77048989fe6sm2597518b3a.51 - gsmtp')
+2025-08-24 08:48:27,591 - INFO - Vehicle detected: car
+2025-08-24 08:48:29,717 - INFO - Email send failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2466889c61bsm33161175ad.143 - gsmtp')
+2025-08-24 08:55:00,036 - INFO - Vehicle detected: car
+2025-08-24 08:55:00,751 - INFO - Email send failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)
+2025-08-24 08:56:00,872 - INFO - Vehicle detected: car
+2025-08-24 08:56:01,704 - INFO - Email send failed: [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)
+2025-08-24 09:41:43,750 - INFO - Vehicle detected: car
+2025-08-24 09:41:46,232 - INFO - Email send failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-324f9e6f1dfsm4207045a91.5 - gsmtp')
+2025-08-24 09:42:35,106 - INFO - Vehicle detected: car
+2025-08-24 09:42:37,421 - INFO - Email send failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b49cbbbde1asm3423960a12.55 - gsmtp')
+2025-08-24 09:45:58,581 - INFO - Vehicle detected: car
+2025-08-24 09:46:01,043 - INFO - Email send failed: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-24668864a5asm34058955ad.84 - gsmtp')
+2025-08-24 09:48:04,782 - INFO - Vehicle detected: car
+2025-08-24 09:48:07,263 - INFO - Email send failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-77059928c5asm298797b3a.1 - gsmtp')
+2025-08-24 09:50:26,458 - INFO - Vehicle detected: car
+2025-08-24 09:50:29,014 - INFO - \u274c Email failed: Bad credentials. Use Gmail App Password (not account password).
+2025-08-24 09:52:10,723 - INFO - Vehicle detected: car
+2025-08-24 09:52:13,979 - INFO - \u2705 Alert email sent for HR26EG8855 (car)
+2025-08-24 09:58:15,160 - INFO - Detected: car (4-wheeler)
+2025-08-24 09:58:15,519 - INFO - Plate recognized: HR26EG8855 | Vehicle: car
+2025-08-24 09:58:18,219 - INFO - Sent stolen alert email for HR26EG8855
+2025-08-24 09:58:18,247 - INFO - [ALERT] STOLEN VEHICLE HR26EG8855 — gate blocked and authority alerted
+2025-08-24 10:00:40,340 - INFO - Detected: ambulance (4-wheeler+)
+2025-08-24 10:00:40,356 - INFO - [EMERGENCY] AMBULANCE detected — FREE PASS, gate opened
+2025-08-24 10:03:56,399 - INFO - Detected: ambulance (4-wheeler+)
+2025-08-24 10:03:56,435 - INFO - [EMERGENCY] AMBULANCE detected — FREE PASS, gate opened
+2025-08-24 10:04:50,018 - INFO - Detected: truck (4-wheeler+)
+2025-08-24 10:04:50,607 - INFO - OCR result 'CODDJ' invalid format — ignored
+2025-08-24 10:06:28,679 - INFO - Detected: car (4-wheeler)
+2025-08-24 10:06:29,362 - INFO - Plate recognized: HR26EG8855 | Vehicle: car
+2025-08-24 10:06:32,440 - INFO - Sent stolen alert email for HR26EG8855
+2025-08-24 10:06:32,474 - INFO - [ALERT] STOLEN VEHICLE HR26EG8855 — gate blocked and authority alerted
+2025-08-24 10:11:59,526 - INFO - Detected: car (4-wheeler)
+2025-08-24 10:12:00,132 - INFO - Plate recognized: HR26EG8855 | Vehicle: car
+2025-08-24 10:12:03,190 - INFO - Sent stolen alert email for HR26EG8855
+2025-08-24 10:12:03,224 - INFO - [ALERT] STOLEN VEHICLE HR26EG8855 — gate blocked and authority alerted
+2025-08-24 13:07:32,670 - INFO - Detected: car (4-wheeler)
+2025-08-24 13:07:33,430 - INFO - Plate recognized: HR26EG8855 | Vehicle: car
+2025-08-24 13:07:36,434 - INFO - Sent stolen alert email for HR26EG8855
+2025-08-24 13:07:36,462 - INFO - [ALERT] STOLEN VEHICLE HR26EG8855 — gate blocked and authority alerted
+2025-08-24 13:09:19,086 - INFO - Detected: car (4-wheeler)
+2025-08-24 13:09:19,205 - INFO - OCR result 'INA3244' invalid format — ignored
+2025-08-24 13:09:34,104 - INFO - Detected: ambulance (4-wheeler+)
+2025-08-24 13:09:34,120 - INFO - [EMERGENCY] AMBULANCE detected — FREE PASS, gate opened
+2025-08-24 13:09:40,636 - INFO - Detected: ambulance (4-wheeler+)
+2025-08-24 13:09:40,649 - INFO - [EMERGENCY] AMBULANCE detected — FREE PASS, gate opened
+2025-08-24 13:09:57,500 - INFO - Detected: ambulance (4-wheeler+)
+2025-08-24 13:09:57,513 - INFO - [EMERGENCY] AMBULANCE detected — FREE PASS, gate opened
+2025-08-24 13:10:09,096 - INFO - Detected: truck (4-wheeler+)
+2025-08-24 13:10:09,188 - INFO - truck detected but OCR failed
+2025-08-24 13:10:23,288 - INFO - Detected: truck (4-wheeler+)
+2025-08-24 13:10:23,354 - INFO - truck detected but OCR failed
+2025-08-24 13:11:07,420 - INFO - Detected: police (4-wheeler+)
+2025-08-24 13:11:07,436 - INFO - [EMERGENCY] POLICE detected — FREE PASS, gate opened
+2025-08-24 14:44:04,454 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\laaka\AppData\Local\Programs\Python\Python310\lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-06 13:24:42,847 - INFO - Models and OCR reader loaded successfully.
+2025-09-06 13:24:43,237 - INFO - CSV data loaded successfully.
+2025-09-06 13:24:43,316 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-09-06 13:24:43,316 - INFO - [33mPress CTRL+C to quit[0m
+2025-09-06 13:24:43,318 - INFO -  * Restarting with stat
+2025-09-06 13:24:48,547 - INFO - Models and OCR reader loaded successfully.
+2025-09-06 13:24:48,894 - INFO - CSV data loaded successfully.
+2025-09-06 13:24:48,902 - WARNING -  * Debugger is active!
+2025-09-06 13:24:48,905 - INFO -  * Debugger PIN: 453-591-827
